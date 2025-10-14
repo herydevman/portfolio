@@ -1,0 +1,1 @@
+import{La as r,ia as n}from"./chunk-O5PCW7WF.js";var f=class e{ObserverRef=r(null);setRef(t){this.ObserverRef.set(t)}static \u0275fac=function(o){return new(o||e)};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})};export{f as a};

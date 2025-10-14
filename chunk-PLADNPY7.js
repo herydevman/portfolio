@@ -1,0 +1,1 @@
+import{fb as i}from"./chunk-O5PCW7WF.js";var n=class e{transform(r,...t){return r=r.charAt(0).toUpperCase()+r.slice(1),r.replace("_"," ")}static \u0275fac=function(t){return new(t||e)};static \u0275pipe=i({name:"deleteUnderscore",type:e,pure:!0})};export{n as DeleteUnderscorePipe};
